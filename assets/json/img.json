@@ -1,0 +1,62 @@
+[
+    {
+      "nombre": "rickandmorty",
+      "imagen": "imagenes2/banner.jpg"
+    },
+    {
+      "nombre": "blanco",
+      "imagen": "imagenes2/banner.png"
+    },
+    {
+      "nombre": "onepunchman",
+      "imagen": "imagenes2/large-movie1.jpg"
+    },
+    {
+      "nombre": "deathnote",
+      "imagen": "imagenes2/large-movie2.jpg"
+    },
+    {
+      "nombre": "demonslayer",
+      "imagen": "imagenes2/large-movie3.jpg"
+    },
+    {
+      "nombre": "gatoconbotas",
+      "imagen": "imagenes2/large-movie4.jpg"
+    },
+    {
+      "nombre": "shrek",
+      "imagen": "imagenes2/large-movie5.jpg"
+    },
+    {
+      "nombre": "hoteltransilvania3",
+      "imagen": "imagenes2/large-movie6.jpg"
+    },
+    {
+      "nombre": "onepeace",
+      "imagen": "imagenes2/large-movie7.jpg"
+    },
+    {
+      "nombre": "jojos",
+      "imagen": "imagenes2/large-movie8.jpg"
+   },
+    {
+      "nombre": "berserk",
+      "imagen": "imagenes2/large-movie9.jpg"
+    },
+    {
+      "nombre": "midnightgospel",
+      "imagen": "imagenes2/large-movie10.jpg"
+    },
+    {
+      "nombre": "bojackhorseman",
+      "imagen": "imagenes2/large-movie11.jpg"
+    },
+    {
+      "nombre": "adventuretime",
+      "imagen": "imagenes2/large-movie12.jpg"
+    },
+    {
+      "nombre": "bravestwarriors",
+      "imagen": "imagenes2/large-movie13.jpg"
+    }
+]
