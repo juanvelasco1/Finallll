@@ -65,59 +65,59 @@ const cargarImg = () => {
           p12.setAttribute("src", row13);
   
           var p13 = document.getElementById("p13");
-          p13.setAttribute("src", row13);
+          p13.setAttribute("src", img[14].imagen);
   
           var p14 = document.getElementById("p14");
-          p14.setAttribute("src", row12);
+          p14.setAttribute("src", img[15].imagen);
   
           var p15 = document.getElementById("p15");
-          p15.setAttribute("src", row4);
+          p15.setAttribute("src", img[16].imagen);
   
       
   
           var p16 = document.getElementById("p16");
-          p16.setAttribute("src", row5);
+          p16.setAttribute("src", img[17].imagen);
   
           var p17 = document.getElementById("p17");
-          p17.setAttribute("src", row8);
+          p17.setAttribute("src", img[18].imagen);
   
           var p18 = document.getElementById("p18");
-          p18.setAttribute("src", row9);
+          p18.setAttribute("src", img[19].imagen);
   
           var p19 = document.getElementById("p19");
-          p19.setAttribute("src", row2);
+          p19.setAttribute("src", img[20].imagen);
   
           var p20 = document.getElementById("p20");
-          p20.setAttribute("src", row2);
+          p20.setAttribute("src", img[21].imagen);
   
           var p21 = document.getElementById("p21");
-          p21.setAttribute("src", row2);
+          p21.setAttribute("src", img[22].imagen);
   
           var p22 = document.getElementById("p22");
-          p22.setAttribute("src", row3);
+          p22.setAttribute("src", img[23].imagen);
   
           var p23 = document.getElementById("p23");
-          p23.setAttribute("src", row4);
+          p23.setAttribute("src", img[24].imagen);
   
           var p24 = document.getElementById("p24");
-          p24.setAttribute("src", row5);
+          p24.setAttribute("src", img[25].imagen);
   
           var p25 = document.getElementById("p25");
-          p25.setAttribute("src", row6);
+          p25.setAttribute("src", img[26].imagen);
   
   
          
           var p26 = document.getElementById("p26");
-          p26.setAttribute("src", row7);
+          p26.setAttribute("src", img[27].imagen);
   
           var p27 = document.getElementById("p27");
-          p27.setAttribute("src", row8);
+          p27.setAttribute("src", img[28].imagen);
   
           var p28 = document.getElementById("p28");
-          p28.setAttribute("src", row9);
+          p28.setAttribute("src", img[29].imagen);
   
           var p29 = document.getElementById("p29");
-          p29.setAttribute("src", row3);
+          p29.setAttribute("src", img[30].imagen);
   
           var bravestwarriors = document.getElementById("bravestwarriors");
           bravestwarriors.setAttribute("src", row3);
@@ -159,7 +159,7 @@ const cargarImg = () => {
           const img = document.createElement("img");
           img.classList.add("row__poster", "row__posterLarge");
           img.alt = "";
-          img.src = "imagenes2/large-movie1.jpg"
+          img.src = "assets/logo.png"
           divPosters.appendChild(img);
         }
         

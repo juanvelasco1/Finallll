@@ -58,6 +58,16 @@ body {
   border-radius: 4px; 
 }
 
+.favorite-select{
+  
+  display: flex;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 100;
+  background-color: #00000088;
+}
+
 
 .row__poster {
   width: 100%;
@@ -80,8 +90,19 @@ body {
   transform: scale(1.08);
 }
 
-.row__posters::-webkit-scrollbar {
-  display: none;
+.bg-modal {
+  background-color: rgba(0, 0, 0, 0.44);
+}
+
+
+
+.row__posters::-webkit-scrollbar{
+  width: 10px;
+}
+
+.row__posters::-webkit-scrollbar-thumb{
+  background-color: #2e2e2e;
+  border-radius: 50px;
 }
 
 .row__posterLarge {
